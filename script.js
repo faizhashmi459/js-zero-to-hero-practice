@@ -600,3 +600,5 @@ console.log('5' + 3);
 console.log('5' + 3 +4 *8);
 console.log('5' + 3 +4 *8);
 console.log('5' + 3 +4 *8);
+
+console.log("faiz")
